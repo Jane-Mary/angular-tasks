@@ -1,0 +1,13 @@
+.stataus{
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.status.complete{
+    background-color: green;
+}
+
+.status.not.complete{
+    background-color:red;
+}
